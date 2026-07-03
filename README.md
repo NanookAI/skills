@@ -7,11 +7,12 @@ Central plugin marketplace for NanookAI agent skills.
 ```
 /plugin marketplace add NanookAI/skills
 /plugin install frankfurter-api@nanookai-skills
+/plugin install open-meteo-api@nanookai-skills
 ```
 
 ## Available plugins
 
-| Plugin                                                                  | Description                                                         | Source |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ |
-| `frankfurter-api`                                                       | Exchange rates and currency conversion via the free Frankfurter API |
-| [NanookAI/frankfurter-api](https://github.com/NanookAI/frankfurter-api) |
+| Plugin            | Description                                                                    | Source                                                                   |
+| ----------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| `frankfurter-api` | Exchange rates and currency conversion via the free Frankfurter API            | [NanookAI/frankfurter-api](https://github.com/NanookAI/frankfurter-api)  |
+| `open-meteo-api`  | Weather forecasts, historical weather, and air quality via the free Open-Meteo API | [NanookAI/open-meteo-api](https://github.com/NanookAI/open-meteo-api) |
