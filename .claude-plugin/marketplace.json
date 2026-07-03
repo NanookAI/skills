@@ -1,0 +1,23 @@
+{
+  "name": "nanookai-skills",
+  "owner": {
+    "name": "NanookAI",
+    "email": "app030242@gmail.com"
+  },
+  "description": "Central catalog of NanookAI agent skills for Claude Code",
+  "plugins": [
+    {
+      "name": "frankfurter-api",
+      "source": {
+        "source": "github",
+        "repo": "NanookAI/frankfurter-api"
+      },
+      "description": "Teaches AI agents to fetch exchange rates and convert currencies with the free Frankfurter API (no API key required)",
+      "version": "1.0.0",
+      "author": { "name": "NanookAI" },
+      "homepage": "https://github.com/NanookAI/frankfurter-api",
+      "category": "finance",
+      "tags": ["exchange-rates", "currency", "forex", "finance"]
+    }
+  ]
+}
