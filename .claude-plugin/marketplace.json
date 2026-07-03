@@ -31,6 +31,19 @@
       "homepage": "https://github.com/NanookAI/open-meteo-api",
       "category": "weather",
       "tags": ["weather", "forecast", "open-meteo", "climate", "air-quality"]
+    },
+    {
+      "name": "countries-api",
+      "source": {
+        "source": "github",
+        "repo": "NanookAI/countries-api"
+      },
+      "description": "Teaches AI agents to query country data, city/place search, postal codes, IP geolocation, and distances with the free countries.dev API (no API key required)",
+      "version": "1.0.0",
+      "author": { "name": "NanookAI" },
+      "homepage": "https://github.com/NanookAI/countries-api",
+      "category": "geography",
+      "tags": ["countries", "geolocation", "geocoding", "postal-codes", "ip-lookup"]
     }
   ]
 }
