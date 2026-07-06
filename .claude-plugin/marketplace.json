@@ -57,6 +57,19 @@
       "homepage": "https://github.com/NanookAI/binance-api",
       "category": "finance",
       "tags": ["binance", "crypto", "cryptocurrency", "market-data", "bitcoin"]
+    },
+    {
+      "name": "worldbank-api",
+      "source": {
+        "source": "github",
+        "repo": "NanookAI/worldbank-api"
+      },
+      "description": "Teaches AI agents to fetch GDP, population, inflation, and ~30,000 other development indicators for every economy with the free World Bank Indicators API (no API key required)",
+      "version": "1.0.0",
+      "author": { "name": "NanookAI" },
+      "homepage": "https://github.com/NanookAI/worldbank-api",
+      "category": "economics",
+      "tags": ["world-bank", "gdp", "economics", "development-indicators", "macroeconomics"]
     }
   ]
 }
