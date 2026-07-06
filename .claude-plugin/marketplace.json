@@ -44,6 +44,19 @@
       "homepage": "https://github.com/NanookAI/countries-api",
       "category": "geography",
       "tags": ["countries", "geolocation", "geocoding", "postal-codes", "ip-lookup"]
+    },
+    {
+      "name": "binance-api",
+      "source": {
+        "source": "github",
+        "repo": "NanookAI/binance-api"
+      },
+      "description": "Teaches AI agents to fetch live and historical crypto market data (prices, klines, order books, trades, futures funding rates, open interest) with the free Binance public REST API (no API key required)",
+      "version": "1.0.0",
+      "author": { "name": "NanookAI" },
+      "homepage": "https://github.com/NanookAI/binance-api",
+      "category": "finance",
+      "tags": ["binance", "crypto", "cryptocurrency", "market-data", "bitcoin"]
     }
   ]
 }
