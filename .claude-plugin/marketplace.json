@@ -43,7 +43,13 @@
       "author": { "name": "NanookAI" },
       "homepage": "https://github.com/NanookAI/countries-api",
       "category": "geography",
-      "tags": ["countries", "geolocation", "geocoding", "postal-codes", "ip-lookup"]
+      "tags": [
+        "countries",
+        "geolocation",
+        "geocoding",
+        "postal-codes",
+        "ip-lookup"
+      ]
     },
     {
       "name": "binance-api",
@@ -69,7 +75,26 @@
       "author": { "name": "NanookAI" },
       "homepage": "https://github.com/NanookAI/worldbank-api",
       "category": "economics",
-      "tags": ["world-bank", "gdp", "economics", "development-indicators", "macroeconomics"]
+      "tags": [
+        "world-bank",
+        "gdp",
+        "economics",
+        "development-indicators",
+        "macroeconomics"
+      ]
+    },
+    {
+      "name": "twse-api",
+      "source": {
+        "source": "github",
+        "repo": "NanookAI/twse-api"
+      },
+      "description": "Teaches AI agents to query Taiwan Stock Exchange (TWSE) open data: daily quotes, P/E and dividend yield, TAIEX history, financial statements, monthly revenue, and ESG disclosures with the free TWSE OpenAPI (no API key required)",
+      "version": "1.0.0",
+      "author": { "name": "NanookAI" },
+      "homepage": "https://github.com/NanookAI/twse-api",
+      "category": "finance",
+      "tags": ["twse", "taiwan", "stock", "finance", "open-data"]
     }
   ]
 }

@@ -11,6 +11,7 @@ Central plugin marketplace for NanookAI agent skills.
 /plugin install countries-api@nanookai-skills
 /plugin install binance-api@nanookai-skills
 /plugin install worldbank-api@nanookai-skills
+/plugin install twse-api@nanookai-skills
 ```
 
 ## Available plugins
@@ -22,3 +23,4 @@ Central plugin marketplace for NanookAI agent skills.
 | `countries-api`   | Country data, city search, postal codes, IP geolocation, and distances via the free countries.dev API | [NanookAI/countries-api](https://github.com/NanookAI/countries-api) |
 | `binance-api`     | Live and historical crypto market data (prices, klines, order books, funding rates) via the free Binance public API | [NanookAI/binance-api](https://github.com/NanookAI/binance-api) |
 | `worldbank-api`   | GDP, population, inflation, and ~30,000 other development indicators via the free World Bank API | [NanookAI/worldbank-api](https://github.com/NanookAI/worldbank-api) |
+| `twse-api`        | Taiwan Stock Exchange open data: quotes, P/E, TAIEX history, financials, ESG via the free TWSE OpenAPI | [NanookAI/twse-api](https://github.com/NanookAI/twse-api) |
