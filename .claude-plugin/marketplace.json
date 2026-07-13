@@ -95,6 +95,19 @@
       "homepage": "https://github.com/NanookAI/twse-api",
       "category": "finance",
       "tags": ["twse", "taiwan", "stock", "finance", "open-data"]
+    },
+    {
+      "name": "ptt-bbs",
+      "source": {
+        "source": "github",
+        "repo": "NanookAI/ptt-bbs"
+      },
+      "description": "Teaches AI agents to scrape PTT web BBS (ptt.cc) without login: board lists, search, articles with push/boo counts and scores, and the essence area",
+      "version": "1.0.0",
+      "author": { "name": "NanookAI" },
+      "homepage": "https://github.com/NanookAI/ptt-bbs",
+      "category": "community",
+      "tags": ["ptt", "bbs", "taiwan", "forum", "scraping"]
     }
   ]
 }
